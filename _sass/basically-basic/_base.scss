@@ -8,7 +8,8 @@ html {
 
 body {
   background: $background-color;
-  color: $text-color;
+  color: $text-color; 
+  font-family: "$global-font-family"
 }
 
 blockquote,
